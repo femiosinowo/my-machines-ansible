@@ -1,4 +1,4 @@
-- hosts: all
+- hosts: vcenter
   gather_facts: false
   connection: local
   tasks:
